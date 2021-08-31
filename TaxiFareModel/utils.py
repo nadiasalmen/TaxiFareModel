@@ -28,3 +28,7 @@ def haversine_vectorized(df,
 
 def compute_rmse(y_pred, y_true):
     return np.sqrt(((y_pred - y_true) ** 2).mean())
+
+
+def haversine_distance():
+    pass
