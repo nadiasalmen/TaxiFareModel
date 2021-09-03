@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/Nadia/code/nadiasalmen/TaxiFareModel/mlruns/1/37ad3667c9e14c2d911332c2c7980185/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 37ad3667c9e14c2d911332c2c7980185
+run_uuid: 37ad3667c9e14c2d911332c2c7980185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1630622499862
+status: 1
+tags: []
+user_id: unknown
